@@ -1,0 +1,6 @@
+{
+  "name": "Construction Estimating System",
+  "description": "An assembly-driven construction tender estimating workbench and cost database system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
