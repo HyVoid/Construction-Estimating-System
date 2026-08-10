@@ -10,7 +10,7 @@
 >
 > 🌐 **Open in Browser** → *HTML Interactive Version (Coming Soon)*
 >
-> 📥 **Download Excel** → *Excel Workbook Release / Gumroad Download (Coming Soon)*
+> 📥 **Download Excel** → [Download Link](https://alexhasgreatestuff.gumroad.com/l/prkvr)
 
 ---
 
