@@ -8,7 +8,7 @@
 
 > ## **No signup. No installation. Free.**
 >
-> 🌐 **Open in Browser** → *HTML Interactive Version (Coming Soon)*
+> 🌐 **Open in Browser** → [*HTML Interactive Version*](https://hyvoid.github.io/Construction-Tender-Assembly-Builder-Estimating-Workbench/)
 >
 > 📥 **Download Excel** → [Download Link](https://alexhasgreatestuff.gumroad.com/l/prkvr)
 
