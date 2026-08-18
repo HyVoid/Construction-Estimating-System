@@ -14,22 +14,6 @@
 
 ---
 
-# Screenshots
-
-### Browser Version
-
-<!-- screenshot: browser version -->
-
-*Interactive tender mapping and assembly matching workspace showing BOQ normalization, assembly recommendations, and estimating outputs.*
-
-### Excel Version
-
-<!-- screenshot: excel version -->
-
-*Assembly-driven estimating workbench displaying cost libraries, estimate calculations, tender outputs, and Procore export structures.*
-
----
-
 # What It Helps You Track
 
 * Tender scope items that have already been estimated in previous projects and can be reused immediately.
