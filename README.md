@@ -10,7 +10,7 @@
 >
 > 🌐 **Open in Browser** → [*HTML Interactive Version*](https://hyvoid.github.io/Construction-Tender-Assembly-Builder-Estimating-Workbench/)
 >
-> 📥 **Download Excel** → [Download Link](https://alexhasgreatestuff.gumroad.com/l/prkvr)
+> 📥 **Download Excel** → [Download Link](https://alexhasgreatestuff.gumroad.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-tender-estimating)
 
 ---
 
