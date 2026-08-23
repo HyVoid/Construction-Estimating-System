@@ -6,7 +6,9 @@
 
 **Standardize construction tender estimating, reduce bid preparation time from weeks to hours, and turn every completed estimate into a reusable corporate estimating asset — with a free browser version and a downloadable Excel workbench.**
 
-> ## **No signup. No installation. Free.**
+**No signup. No installation. Free in your browser.**
+
+Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
 >
 > 🌐 **Open in Browser** → [*HTML Interactive Version*](https://hyvoid.github.io/Construction-Tender-Assembly-Builder-Estimating-Workbench/)
 >
