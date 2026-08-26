@@ -8,7 +8,7 @@
 
 By turning historical estimates into reusable corporate assets, this construction tender estimating software reduces bid preparation time from weeks to hours. Available as a free web tool or a downloadable Excel workbench for professional estimators and quantity surveyors.
 
-> 🌐 **Free Web Version** → [*Open Estimating Software in Browser*](https://hyvoid.github.io/Construction-Tender-Assembly-Builder-Estimating-Workbench/)
+> 🌐 **Free Web Version** → [*Open Estimating Software in Browser*](https://hyvoid.github.io/construction-estimating/)
 > 📥 **Excel Template** → [*Download Workbench*](https://alexhasgreatestuff.gumroad.com/l/prkvr?utm_source=github)
 ---
 
@@ -45,7 +45,7 @@ Switch to the **Estimating Engine**. The workbench automatically executes the fo
 *   Performs **BOQ normalization**, mapping new tender line items to your historical construction assemblies.
 *   Calculates precise labor, material, and equipment costs based on your predefined productivity rules.
 *   Generates a tender-ready **cost estimate output** with transparent risk and margin breakdowns.
-*   👉 [*Test the Automated Assembly Mapping in Browser*](https://hyvoid.github.io/Construction-Tender-Assembly-Builder-Estimating-Workbench/)
+*   👉 [*Test the Automated Assembly Mapping in Browser*](https://hyvoid.github.io/construction-estimating/)
 
 ### 4. Build a Reusable Corporate Estimating Database
 After tender submission, do not discard the file. Your new mappings and custom WBS (Work Breakdown Structure) assemblies are saved directly into the **History Repository**. The system evolves with every bid, transforming single-use spreadsheets into a permanent **construction estimating database**.
