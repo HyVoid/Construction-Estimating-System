@@ -1,91 +1,79 @@
-# Construction Tender Assembly Builder & Estimating Workbench
+# Construction Estimating Software & Tender Assembly Builder
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)
-![Tool](https://img.shields.io/badge/Tool-Decision%20Support-orange.svg)
+![Category](https://img.shields.io/badge/Category-Construction%20Tech-orange.svg)
 
-**Standardize construction tender estimating, reduce bid preparation time from weeks to hours, and turn every completed estimate into a reusable corporate estimating asset — with a free browser version and a downloadable Excel workbench.**
+**Construction Tender Assembly Builder** is a browser-based application and Excel estimating template designed to automate construction bid preparation, manage BOQ (Bill of Quantities), and standardize cost calculations. 
 
-**No signup. No installation. Free in your browser.**
+By turning historical estimates into reusable corporate assets, this construction tender estimating software reduces bid preparation time from weeks to hours. Available as a free web tool or a downloadable Excel workbench for professional estimators and quantity surveyors.
 
-Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
->
-> 🌐 **Open in Browser** → [*HTML Interactive Version*](https://hyvoid.github.io/Construction-Tender-Assembly-Builder-Estimating-Workbench/)
->
-> 📥 **Download Excel** → [Download Link](https://alexhasgreatestuff.gumroad.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-tender-estimating)
-
+> 🌐 **Free Web Version** → [*Open Estimating Software in Browser*](https://hyvoid.github.io/Construction-Tender-Assembly-Builder-Estimating-Workbench/)
+> 📥 **Excel Template** → [*Download Workbench*](https://alexhasgreatestuff.gumroad.com/l/prkvr?utm_source=github)
 ---
 
 # What It Helps You Track
 
-* Tender scope items that have already been estimated in previous projects and can be reused immediately.
-* Planned project costs versus actual assembly composition and estimating assumptions.
-* Margin exposure, contingency allocation, escalation assumptions, and tender risk position.
-* Assembly reuse rates across historical projects and estimators.
-* Standardized cost code structures required for downstream budgeting and project execution.
-* Corporate estimating knowledge accumulation instead of one-off spreadsheet outputs.
+## Overcoming Common Construction Estimating Challenges
+
+This workbench is engineered to solve the most frequent bottlenecks in **construction bid preparation** and **cost engineering**:
+
+*   **Preventing Scope Omissions in BOQ:** Stop losing margin due to missed items. The tender mapping engine automatically cross-references new Bill of Quantities (BOQ) with historical databases to ensure scope completeness.
+*   **Reusing Historical Construction Data:** Stop starting every bid from scratch. Convert past project estimates into dynamic, reusable assembly libraries (Assembly Builder) for instant retrieval.
+*   **Mitigating Labor Productivity Risks:** Avoid using outdated labor rates. Apply dynamic productivity adjustment factors to historical labor data to match current site conditions and market rates.
+*   **Standardizing Cost Codes (WBS):** Eliminate post-tender rework. Automatically structure your estimates using standardized cost codes, making them instantly exportable to project management software like Procore.
 
 ---
 
-# Quick Start Workflow
+## How to Use the Estimating Workbench: Quick Start Guide
 
-### 1. Configure Estimating Parameters Once
+### 1. Setup Construction Cost Parameters
+Open the **Settings** workspace to define your corporate estimating baseline. Establish standardized rules for your bids:
+*   **Markup & Overhead:** Define target gross margins and overhead percentages.
+*   **Risk & Contingency:** Set baseline risk allowances for volatile construction materials.
+*   **Labor Productivity:** Apply regional adjustment factors for construction labor rates.
+*   *Outcome:* Set these parameters once to establish your master **cost estimation template framework**.
 
-Open the **Settings** worksheet and define company-wide estimating assumptions, including:
+### 2. Import Bill of Quantities (BOQ) Data
+Seamlessly integrate your existing tender data without complex database migration. Paste raw data directly from external takeoff tools, accounting systems, or client consultant documents into the designated worksheets:
+*   Tender BOQ (Bill of Quantities)
+*   Subcontractor Schedule of Rates (SOR)
+*   Material Quantity Takeoffs (QTO)
 
-* Overhead percentages
-* Target gross margin
-* Risk allowances
-* Escalation assumptions
-* Currency and taxation rules
-* Productivity adjustment factors
+### 3. Automate Assembly Mapping & Cost Calculation
+Switch to the **Estimating Engine**. The workbench automatically executes the following logic:
+*   Performs **BOQ normalization**, mapping new tender line items to your historical construction assemblies.
+*   Calculates precise labor, material, and equipment costs based on your predefined productivity rules.
+*   Generates a tender-ready **cost estimate output** with transparent risk and margin breakdowns.
+*   👉 [*Test the Automated Assembly Mapping in Browser*](https://hyvoid.github.io/Construction-Tender-Assembly-Builder-Estimating-Workbench/)
 
-These parameters become the standard estimating framework used across all tenders.
-
----
-
-### 2. Import Existing Tender Data
-
-Paste or import existing project information into the designated worksheets:
-
-* Tender BOQ
-* Scope schedules
-* Schedule of rates
-* Quantity takeoffs
-* Historical pricing references
-
-No database migration is required. Existing exports from estimating software, accounting systems, spreadsheets, or consultant documents can be used directly.
+### 4. Build a Reusable Corporate Estimating Database
+After tender submission, do not discard the file. Your new mappings and custom WBS (Work Breakdown Structure) assemblies are saved directly into the **History Repository**. The system evolves with every bid, transforming single-use spreadsheets into a permanent **construction estimating database**.
+*   👉 [*Download the Excel Estimating Workbench for Offline Use*](https://alexhasgreatestuff.gumroad.com/l/prkvr?utm_source=github)
 
 ---
 
-### 3. Generate Estimates Automatically
+# Who This Is For
 
-Switch to the estimating workspace.
+This workbench is designed for:
 
-The system automatically:
+* Construction estimators
+* Commercial managers
+* Quantity surveyors
+* Tender managers
+* Small and medium construction companies
+* Contractors building internal estimating standards
+* Organizations preparing for future Procore implementation
 
-* Maps tender items to historical assemblies
-* Retrieves standardized cost components
-* Applies labor and productivity assumptions
-* Calculates risk, escalation, and margin impacts
-* Produces tender-ready estimate outputs
+### Primary Use Cases
 
-No manual recalculation or rebuilding is required.
+*   **Quantity Surveyors (QS) & Cost Engineers:** Rapidly validate subcontractor quotes and perform accurate quantity takeoffs against historical baselines.
+*   **General Contractors (Main Contractors):** Standardize the internal bidding process across multiple estimating teams to reduce commercial risk.
+*   **Commercial Managers:** Gain immediate visibility into tender margin exposure, risk allowances, and overhead allocation before bid submission.
 
----
+No spreadsheet expertise is required.
 
-### 4. Refresh and Build Corporate Knowledge
-
-When new tenders arrive:
-
-* Import the new BOQ
-* Reuse existing mappings
-* Create additional assemblies only where necessary
-* Save new estimating knowledge back into the corporate repository
-
-The estimating system improves over time instead of restarting from zero for every project.
-
-> **Set a few key parameters. Drop in existing tender data. Get the estimate. Refresh when needed.**
+Open the browser version or download the Excel workbook and begin building reusable estimating assemblies immediately.
 
 ---
 
@@ -174,43 +162,17 @@ This workbook turns estimating from a repetitive activity into a reusable organi
 
 ---
 
-# Common Construction Estimating Problems This Solves
+## Traditional Spreadsheets vs. Estimating Workbench
 
-| Problem                                       | Without This Tool                                      | With This Tool                                |
-| --------------------------------------------- | ------------------------------------------------------ | --------------------------------------------- |
-| Every tender requires rebuilding assemblies   | Estimators spend days reconstructing similar estimates | Existing assemblies are reused automatically  |
-| Different estimators produce different prices | Large estimate variation between staff                 | Standardized cost libraries and rules         |
-| Historical projects cannot be reused          | Corporate knowledge is lost after submission           | Historical assemblies become permanent assets |
-| Tender structures change constantly           | Previous estimates cannot be mapped efficiently        | Tender mapping engine normalizes structures   |
-| Procore implementation starts from scratch    | Budget structures require rework                       | Standard WBS and cost codes already exist     |
-| Risk assumptions remain undocumented          | Margin exposure is hidden                              | Risk and contingency logic becomes visible    |
+| Estimating Pain Points | Traditional Spreadsheet Methods | Workbench Automated Solution |
+| :--- | :--- | :--- |
+| **Bid Preparation Time** | Estimators spend days manually reconstructing WBS and assemblies for similar projects. | Auto-maps tender structures, reusing existing assemblies in hours. |
+| **Cost Accuracy & Variance** | Large estimate variations depending on the individual estimator's experience. | Enforces standardized cost libraries and corporate estimating rules. |
+| **Data Knowledge Loss** | Corporate pricing knowledge is lost in isolated files after tender submission. | Historical assemblies become permanent, searchable corporate assets. |
+| **Margin & Risk Visibility** | Hidden contingency assumptions mask true margin exposure during bid reviews. | Explicit risk, contingency, and escalation logic are separated from base costs. |
 
 ---
 
-# Who This Is For
-
-This workbench is designed for:
-
-* Construction estimators
-* Commercial managers
-* Quantity surveyors
-* Tender managers
-* Small and medium construction companies
-* Contractors building internal estimating standards
-* Organizations preparing for future Procore implementation
-
-This workbench is not designed for:
-
-* Enterprise ERP replacement
-* Real-time collaborative estimating platforms
-* Enterprise database management systems
-* Full construction project management suites
-
-No spreadsheet expertise is required.
-
-Open the browser version or download the Excel workbook and begin building reusable estimating assemblies immediately.
-
----
 
 # About
 
