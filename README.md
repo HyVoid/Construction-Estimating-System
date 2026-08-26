@@ -77,88 +77,24 @@ Open the browser version or download the Excel workbook and begin building reusa
 
 ---
 
-# Why I Built This
+## Why I Built This: The "Estimating Memory" Problem
 
-Most construction companies do not actually suffer from a lack of estimating software.
+After analyzing hundreds of construction bids and working with commercial teams, I realized a fundamental truth: **Most construction companies do not actually suffer from a lack of estimating software. They suffer from a lack of institutional estimating memory.**
 
-They suffer from a lack of **estimating memory**.
-
-In many estimating teams, the workflow still looks like this:
+In many quantity surveying (QS) and estimating teams, the bid preparation workflow still looks like this:
 
 ```text
-New Tender
+New BOQ Received
       ↓
-Review Drawings
+Review Architectural Drawings
       ↓
-Search Old Files
+Search Siloed Spreadsheets & Old Files
       ↓
-Copy Previous Estimate
+Copy Previous Project Estimate
       ↓
-Modify Numbers
+Manually Modify Cost Rates
       ↓
-Submit Bid
-```
-
-The problem is not that estimators cannot price projects.
-
-The problem is that every tender becomes a one-time exercise, where:
-
-* historical assemblies disappear,
-* mapping logic is lost,
-* productivity assumptions remain undocumented,
-* and estimating quality depends heavily on individual experience.
-
-I built this workbook as a **productized estimating framework**, not as another estimating spreadsheet.
-
-For example:
-
-### Before
-
-Tender:
-
-```text
-Earthworks
-Concrete
-Services
-```
-
-Historical estimate:
-
-```text
-Excavation
-Structural Concrete
-MEP
-```
-
-Result:
-
-* No direct matching
-* Manual reconstruction required
-* Several days spent rebuilding assemblies
-
----
-
-### After
-
-The assembly engine recognizes:
-
-```text
-Earthworks → Excavation Assembly
-Concrete → Structural Concrete Assembly
-Services → MEP Assembly
-```
-
-The estimator only reviews exceptions instead of rebuilding the entire estimate.
-
-The result changes from:
-
-> "How do we estimate this project?"
-
-to:
-
-> "Which existing corporate estimating knowledge already solves most of this project?"
-
-This workbook turns estimating from a repetitive activity into a reusable organizational asset.
+Submit Tender (with hidden commercial risks)
 
 ---
 
