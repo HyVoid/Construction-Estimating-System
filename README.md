@@ -96,7 +96,7 @@ Copy Previous Project Estimate
 Manually Modify Cost Rates
       ↓
 Submit Tender (with hidden commercial risks)
-
+```
 ---
 
 ## Traditional Spreadsheets vs. Estimating Workbench
