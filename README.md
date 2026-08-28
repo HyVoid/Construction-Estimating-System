@@ -1,3 +1,4 @@
+[ 🌐 عربي ](README.ar.md) | [ 🇬🇧 English ](README.md)
 # Construction Estimating Software & Tender Assembly Builder
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
