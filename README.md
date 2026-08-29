@@ -11,7 +11,7 @@ By turning historical estimates into reusable corporate assets, this constructio
 
 > 🌐 **Free Web Version** → [*Open Estimating Software in Browser*](https://hyvoid.github.io/construction-estimating/)
 > 
-> 📥 **Excel Template** → [*Download Workbench*](https://alexhasgreatestuff.gumroad.com/l/prkvr?wanted=true)
+> 📥 **Excel Template** → [*Download Workbench*](https://gum.co/u/kt9yecmv)
 ---
 
 # What It Helps You Track
@@ -51,7 +51,7 @@ Switch to the **Estimating Engine**. The workbench automatically executes the fo
 
 ### 4. Build a Reusable Corporate Estimating Database
 After tender submission, do not discard the file. Your new mappings and custom WBS (Work Breakdown Structure) assemblies are saved directly into the **History Repository**. The system evolves with every bid, transforming single-use spreadsheets into a permanent **construction estimating database**.
-*   👉 [*Download the Excel Estimating Workbench for Offline Use*](https://alexhasgreatestuff.gumroad.com/l/prkvr?wanted=true)
+*   👉 [*Download the Excel Estimating Workbench for Offline Use*](https://gum.co/u/kt9yecmv)
 
 ---
 
