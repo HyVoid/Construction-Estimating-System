@@ -12,6 +12,14 @@ By turning historical estimates into reusable corporate assets, this constructio
 > 🌐 **Free Web Version** → [*Open Estimating Software in Browser*](https://hyvoid.github.io/construction-estimating/)
 > 
 > 📥 **Excel Template** → [*Download Workbench*](https://gum.co/u/kt9yecmv)
+## Want to try it?
+
+This project is included in the Construction Toolkit.
+
+Try this and other lightweight construction tools free for 30 days — including tools for estimating, bidding, job costing, and day-to-day operations.
+
+→ [Try the Construction Toolkit](https://theseusworkshop.com/l/fqtoi/BIDSEASON?utm_source=github&utm_medium=GitHub%20portfolio)
+
 ---
 
 # What It Helps You Track
