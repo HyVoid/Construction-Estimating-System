@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 # Construction Estimating Software & Tender Assembly Builder
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
@@ -452,6 +452,7 @@ SWITCH()
 | Tender Mapping | Must resolve to assembly | Exception queue    |
 | Procore Export | Valid WBS required       | Export blocked     |
 
+</details>
 </details>
 
 ---
