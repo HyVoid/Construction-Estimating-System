@@ -13,7 +13,15 @@
 
 > 🌐 **نسخة الويب المجانية** ← [*افتح برنامج التقدير في المتصفح*](https://hyvoid.github.io/construction-estimating/)
 > 
-> 📥 **قالب إكسل** ← [*تحميل منصة العمل*](https://alexhasgreatestuff.gumroad.com/l/prkvr?wanted=true)
+> 📥 **قالب إكسل** ← [*تحميل منصة العمل*](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
+
+## هل تريد التجربة؟
+
+هذا المشروع مضمّن في حزمة Construction Toolkit.
+
+جرّب هذه الأداة وأدوات البناء الخفيفة الأخرى مجانًا لمدة 30 يومًا — بما في ذلك أدوات التقدير وعروض الأسعار وتكاليف الأعمال والعمليات اليومية.
+
+→ [جرّب Construction Toolkit](https://theseusworkshop.com/l/fqtoi/BIDSEASON?utm_source=github&utm_medium=GitHub%20portfolio)
 
 ---
 
@@ -54,7 +62,7 @@
 
 ### 4. بناء قاعدة بيانات مؤسسية قابلة لإعادة الاستخدام للتقدير
 بعد تقديم العطاء، لا تتخلص من الملف. يتم حفظ مطابقاتك الجديدة وتجميعات هيكل تجزئة العمل (WBS) المخصصة مباشرة في **مستودع السجلات (History Repository)**. يتطور النظام مع كل عطاء، ويحول جداول البيانات ذات الاستخدام الواحد إلى **قاعدة بيانات دائمة لتقدير تكاليف البناء**.
-*   👉 [*قم بتنزيل منصة تقدير إكسل للاستخدام دون اتصال*](https://alexhasgreatestuff.gumroad.com/l/prkvr?wanted=true)
+*   👉 [*قم بتنزيل منصة تقدير إكسل للاستخدام دون اتصال*](https://gum.co/u/kt9yecmv)
 
 ---
 
