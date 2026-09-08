@@ -11,7 +11,7 @@ By turning historical estimates into reusable corporate assets, this constructio
 
 > 🌐 **Free Web Version** → [*Open Estimating Software in Browser*](https://hyvoid.github.io/construction-estimating/)
 > 
-> 📥 **Excel Template** → [*Download Workbench*](https://gum.co/u/kt9yecmv)
+> 📥 **Excel Template** → [*Download Workbench*](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
 
 ## Want to try it?
 
