@@ -453,7 +453,6 @@ SWITCH()
 | Procore Export | Valid WBS required       | Export blocked     |
 
 </details>
-</details>
 
 ---
 
